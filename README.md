@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <li> 2021 PhD in Linguistics, Seoul National University </li>
   <li> majored in Computational Linguistics / Natural Language Processing </li>
   <ul>
-    <li> participated in lab projects such as <a href="https://github.com/snunlp/KR-BERT">KR-BERT</a>, <a href="https://github.com/snunlp/KR-BERT-MEDIUM">KR-BERT-MEDIUM</a>, <a href="https://github.com/snunlp/KR-BERT-KOSAC">KR-BERT-KOSAC</a> and <a href="https://github.com/snunlp/KR-ELECTRA">KR-ELECTRA</a> </li>
+    <li> participated in lab projects including <a href="https://github.com/snunlp/KR-BERT">KR-BERT</a>, <a href="https://github.com/snunlp/KR-BERT-MEDIUM">KR-BERT-MEDIUM</a>, <a href="https://github.com/snunlp/KR-BERT-KOSAC">KR-BERT-KOSAC</a> and <a href="https://github.com/snunlp/KR-ELECTRA">KR-ELECTRA</a> </li>
     <li> especially interested in noisy text processing </li>
   </ul>
   <li> currently working as an Assistant Teaching Professor at Seoul National University </li>
