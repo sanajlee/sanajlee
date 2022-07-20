@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <li> especially interested in noisy text processing </li>
   </ul>
   <li> currently working as an Assistant Teaching Professor at Seoul National University </li>
-  <li> Korean(native), English, Japanese, German </li>
+  <li> Korean(native), English, Japanese, and ein bisschen German </li>
   <li> 🏊🏻‍♀️🏃🏻🥊 </li>
   
 </ul>
